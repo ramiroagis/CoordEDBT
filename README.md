@@ -1,6 +1,6 @@
 # CoordEDBT - An extension for Event-Driven Behavior Trees to facilitate NPC coordination in Unity
 
-### May 4, 2020: The research paper about CoordEDBT has been finally published in the scientific journal Expert Systems and Applications. [[Read PDF]](http://cs.uns.edu.ar/~ragis/Agis%20et%20al.%20(2020)%20-%20An%20event-driven%20behavior%20trees%20extension%20to%20facilitate%20non-player%20multi-agent%20coordination%20in%20video%20games.pdf)
+### May 4, 2020: The research paper about CoordEDBT has been finally published in the scientific journal Expert Systems and Applications. [[Read PDF]](https://github.com/ramiroagis/CoordEDBT/blob/master/Agis%20et%20al.%20(2019)%20-%20An%20Event-Driven%20Behavior%20Trees%20extension%20to%20facilitate%20Non-Player%20Multi-Agent%20coordination%20in%20video%20games.pdf)
 
 ## What is CoordEDBT?
 
